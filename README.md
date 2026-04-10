@@ -10,7 +10,7 @@ Welcome to the **Balloon Pop Game**! This is a fun and exciting web-based game w
 - When time runs out, see your final score and play again! 🔄
 
 ## 🌐 Play Online
-Experience the game live at: [https://iam269.github.io/Balloon-Pop-Game/](https://iam269.github.io/Balloon-Pop-Game/)
+Experience the game live at: [https://itsiamdev.github.io/Balloon-Pop-Game/](https://itsiamdev.github.io/Balloon-Pop-Game/)
 
 ## 🛠️ Technologies Used
 - HTML5
